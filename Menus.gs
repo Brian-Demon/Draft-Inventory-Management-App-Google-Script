@@ -1,6 +1,6 @@
 function setupMenus(){
   SpreadsheetApp.getUi()
-  .createMenu('Beerhead Menu')
+  .createMenu('Draft Menu')
   .addItem('Start New Inventory', 'newInventory')
   .addSeparator()
   .addSubMenu(SpreadsheetApp.getUi()
@@ -18,7 +18,7 @@ function setupMenus(){
               .createMenu('Help')
               .addItem('Beerhead Menu Help', 'BHBMenuHelp')
               //.addItem('TEST', 'testFunction')
-              .addItem('New Inventory Help', 'NewInventoryHelp')
-              .addItem('Test', 'test'))
+              .addItem('New Inventory Help', 'NewInventoryHelp'))
+              //.addItem('Test', 'test'))
   .addToUi();
 }
