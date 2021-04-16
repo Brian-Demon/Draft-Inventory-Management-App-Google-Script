@@ -23,7 +23,7 @@ function MenuHelp(){
                           + ' *Be sure to read the promt before clicking YES to begin a new inventory or data may be lost.'
                           + '\r\n\r\nDraft Status - When a beer is selected (highlighted), this option will change the status of that beer'
                           + ' on the draft line up to whatever you select it to be. Selecting RESET will make it default (white).'
-                          + '\r\n\r\nEmpty Keg Weights - Shows a list of all kegs used by Beerhead and their corresponding weight when empty.'
+                          + '\r\n\r\nEmpty Keg Weights - Shows a list of kegs and their corresponding weight when empty.'
                           + '\r\n\r\nOrganize Backup Beer - Organized all beer in the "Extra Beer" and "Event Beer" section alphabetically'
                           + '\r\n\r\n\r\nCreated by: Brian Matejka (Schaumburg, IL)',
   ui.ButtonSet.OK);
