@@ -1,5 +1,5 @@
 function onOpen(e){
-  // Set up the custom Beerhead Menus
+  // Set up the custom Draft Menus
   setupMenus();
 }
 
