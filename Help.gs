@@ -36,7 +36,7 @@ function NewInventoryHelp(){
                           + '\r\n\r\n1) Ensure you have a paper copy of last weeks Draft Line Up. *DO NOT START NEW INVENTORY OTHERWISE!*'
                           + '\r\n2) Go to the menu bar: Menu->Start New Inventory->Yes'
                           + '\r\n3) Remove kicked beer and move any new beer to replace'
-                          + '\r\n4) Update beer draft status in the menu bar after selecting beer on the list: Beerhead Menu->Draft Status'
+                          + '\r\n4) Update beer draft status in the menu bar after selecting beer on the list: Draft Menu->Draft Status'
                           + '\r\n5) Print new copy and start weighing kegs'
                           + '\r\n6) Enter new keg weights in column A (E = Empty Keg / N = New Keg'
                           + '\r\n7) Print new copy of the Draft Line Up for this week after finishing inventory'
