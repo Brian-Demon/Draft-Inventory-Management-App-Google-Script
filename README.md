@@ -8,4 +8,9 @@ Make a copy of the following Google spreadsheet: https://docs.google.com/spreads
 
 ## Google Apps GitHub Assistant:
 To clone project:
-Add Google Apps Script GitHub Assistant (https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo/related) to gain access to GitHub functionalty
+- Add Google Apps Script GitHub Assistant (https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo/related) to gain access to GitHub functionalty
+- Open newly copied Google Spreadsheet and rename it
+- Tools -> Script editor
+- If you see a blue button named "Use new editor" click it
+- Click "Repository" and select the cloned repo made from this one
+- Pull down code
